@@ -29,9 +29,13 @@
   caret-color: transparent;
 }
 
+.terminal-combo {
+  display: flex;
+  flex-direction: row;
+}
+
 .blinking-cursor {
   animation: blink 1s step-end infinite;
-  margin-left: 100px;
 }
 
 @keyframes blink {

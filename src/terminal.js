@@ -19,7 +19,7 @@ function Terminal() {
             <div key={index}>{item}</div>
         ))}
       </div>
-      <div>
+      <div className="terminal-combo">
         <input
           type="text"
           value={input}
@@ -28,8 +28,8 @@ function Terminal() {
           className="terminal-input"
           autoFocus
         />
+        <span className="blinking-cursor">_</span>
       </div>
-      <span className="blinking-cursor">_</span>
     </div>
   );
 }
