@@ -19,6 +19,11 @@
   src: url('./resources/font/Karla-Italic.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'Karla-Bold';
+  src: url('./resources/font/Karla-Bold.ttf') format('truetype');
+}
+
 
 body {
   font-family: 'Karla-Medium', sans-serif;
