@@ -1,26 +1,30 @@
 .projects {
-    display: flex;
-    flex-wrap: wrap;
-  }
+  display: flex;
+  flex-wrap: wrap;
+}
   
-  .project-item {
-    flex: 1;
-    min-width: 200px; 
-    margin-bottom: 20px;
-    margin-right: 20px;;
-  }
+.project-item {
+  flex: 1;
+  min-width: 200px; 
+  margin-bottom: 20px;
+  margin-right: 20px;;
+}
 
-  .title {
-    margin-top: 0px;
-  }
+.title {
+  margin-top: 0px;
+}
 
-  .description { 
-    margin-top: 0px;
-  }
-  
-  h2 {
-    font-family: 'Karla-SemiBold', sans-serif;
-  }
+.description { 
+  margin-top: 0px;
+}
+
+h2 {
+  font-family: 'Karla-SemiBold', sans-serif;
+}
+
+.header {
+  margin-bottom: 10px;
+}
 
     
 

@@ -15,10 +15,6 @@ function Header() {
         <a className= 'icon' href="https://github.com/fathisahar" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
         <a className= 'icon' href="https://www.linkedin.com/in/sahar-fathi/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
       </div>
-      <nav className="nav">
-        <a href="#about">About</a>
-        <a href="#contact">Contact</a>
-      </nav>
     </div>
   );
 }

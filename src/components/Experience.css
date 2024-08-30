@@ -26,15 +26,18 @@
 
 .date {
   font-family: 'Karla-Italic', sans-serif;
-  margin-bottom:0px;
+  margin-bottom: 0px;
+  margin-top: 5px;
 }
 
 .description {
-  margin-top: 0px;;
+  margin-top: 0px;
+  font-size: 14px;
 }
   
 h2 {
   font-family: 'Karla-SemiBold', sans-serif;
+  margin-bottom: 0px;
 }
 
 .semibold {

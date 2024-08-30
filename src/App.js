@@ -9,8 +9,6 @@ function App() {
     <div className="App">
       <main>
         <Header />
-        <section className="about">
-        </section>
         <Experience />
         <Projects />
       </main>
