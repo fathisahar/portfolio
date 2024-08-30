@@ -1,11 +1,29 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+@font-face {
+  font-family: 'Karla-Medium';
+  src: url('./resources/font/Karla-Medium.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'Karla-SemiBold';
+  src: url('./resources/font/Karla-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Karla-Regular';
+  src: url('./resources/font/Karla-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Karla-Italic';
+  src: url('./resources/font/Karla-Italic.ttf') format('truetype');
+}
+
+
+body {
+  font-family: 'Karla-Medium', sans-serif;
+}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
