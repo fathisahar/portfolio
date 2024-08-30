@@ -7,23 +7,6 @@
   margin-bottom: 20px;
 }
 
-.tag {
-  background-color: #ddd;
-  padding: 2px 5px;
-  border-radius: 3px;
-  font-size: 12px;
-  margin-left: 10px;
-}
-
-.company{
-  font-family: 'Karla-Regular', sans-serif;
-  margin: 0px;
-}
-
-.title{
-  margin: 0px;
-}
-
 .date {
   font-family: 'Karla-Italic', sans-serif;
   margin-bottom: 0px;
@@ -43,4 +26,23 @@ h2 {
 .semibold {
   font-family: 'Karla-Bold', sans-serif;
 }
-  
+
+.nokia {
+  width: 70px;
+  margin: 0px;
+}
+
+.dell { 
+  width: 170px;
+  margin: 0px;
+}
+
+.dell-title{
+  margin: 0px;
+  color: #036ba8;
+}
+
+.nokia-title{
+  margin: 0px;
+  color: #0053d9;
+}
