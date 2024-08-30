@@ -1,7 +1,14 @@
-.experience-item h3 {
-  font-size: 18px;
+.experience {
+  display: flex;
+  flex-wrap: wrap;
 }
-  
+
+.experience-item {
+  flex: 1;
+  min-width: 300px; 
+  margin-bottom: 20px;
+}
+
 .tag {
   background-color: #ddd;
   padding: 2px 5px;

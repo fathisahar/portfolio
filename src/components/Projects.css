@@ -1,13 +1,15 @@
 .projects {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+
   }
   
   .project-item {
-    width: 30%;
+    flex: 1;
+    min-width: 200px; 
     margin-bottom: 20px;
     text-align: center;
+    margin-right: 20px;;
   }
   
   .project-icon {
