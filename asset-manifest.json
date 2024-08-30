@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.32c9cc75.js",
-    "static/js/453.6d4d516f.chunk.js": "/static/js/453.6d4d516f.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.32c9cc75.js.map": "/static/js/main.32c9cc75.js.map",
-    "453.6d4d516f.chunk.js.map": "/static/js/453.6d4d516f.chunk.js.map"
+    "main.css": "/fathisahar.github.io/static/css/main.57afe12b.css",
+    "main.js": "/fathisahar.github.io/static/js/main.a10dbe48.js",
+    "static/js/453.6d4d516f.chunk.js": "/fathisahar.github.io/static/js/453.6d4d516f.chunk.js",
+    "static/media/Karla-Italic.ttf": "/fathisahar.github.io/static/media/Karla-Italic.29a59be460ca29301c45.ttf",
+    "static/media/Karla-SemiBold.ttf": "/fathisahar.github.io/static/media/Karla-SemiBold.ad031b3f19d4bb6eaafb.ttf",
+    "static/media/Karla-Bold.ttf": "/fathisahar.github.io/static/media/Karla-Bold.23ca816af95c228bcb4e.ttf",
+    "static/media/Karla-Medium.ttf": "/fathisahar.github.io/static/media/Karla-Medium.3865ebfcffcb8469e5d3.ttf",
+    "static/media/Karla-Regular.ttf": "/fathisahar.github.io/static/media/Karla-Regular.f950111be01b92a807ba.ttf",
+    "index.html": "/fathisahar.github.io/index.html",
+    "main.57afe12b.css.map": "/fathisahar.github.io/static/css/main.57afe12b.css.map",
+    "main.a10dbe48.js.map": "/fathisahar.github.io/static/js/main.a10dbe48.js.map",
+    "453.6d4d516f.chunk.js.map": "/fathisahar.github.io/static/js/453.6d4d516f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.32c9cc75.js"
+    "static/css/main.57afe12b.css",
+    "static/js/main.a10dbe48.js"
   ]
 }
