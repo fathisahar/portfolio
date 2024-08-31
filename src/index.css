@@ -24,6 +24,10 @@
   src: url('./resources/font/Karla-Bold.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'JB-Regular';
+  src: url('./resources/font/JetBrainsMono-Regular.ttf') format('truetype');
+}
 
 body {
   font-family: 'Karla-Medium', sans-serif;
@@ -33,4 +37,26 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.project-item {
+  position: relative;
+  transition: transform 0.5s ease;
+}
+
+.project-item:hover {
+  transform: translateY(-5px);
+}
+
+.project-item:hover {
+  animation: bounce 0.5s ease-in-out;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
 }

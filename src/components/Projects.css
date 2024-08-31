@@ -2,12 +2,12 @@
   display: flex;
   flex-wrap: wrap;
 }
-  
+
 .project-item {
   flex: 1;
   min-width: 200px; 
   margin-bottom: 20px;
-  margin-right: 20px;;
+  margin-right: 20px;
 }
 
 .title {
@@ -26,6 +26,44 @@ h2 {
   margin-bottom: 10px;
 }
 
-    
+.tag {
+  padding: 5px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff6f6;
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  font-family: "JB-Regular", sans serif;
+}
 
-  
+.tag-fn {
+  padding: 5px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #000000;
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  font-family: "JB-Regular", sans serif;
+  background-color: #d3d6d9; 
+}
+
+
+.tag-grey { background-color: #8196ad; box-shadow: 0 0 10px #8196ad; }
+.tag-blue { background-color: #007BFF; box-shadow: 0 0 10px #007BFF; }
+.tag-green { background-color: #28A745; box-shadow: 0 0 10px #28A745; }
+.tag-purple { background-color: #6F42C1; box-shadow: 0 0 10px #6F42C1; }
+.tag-yellow { background-color: #FFC107; box-shadow: 0 0 10px #FFC107; }
+.tag-orange { background-color: #FD7E14; box-shadow: 0 0 10px #FD7E14; }
+.tag-red { background-color: #DC3545; box-shadow: 0 0 10px #DC3545; }
+.tag-teal { background-color: #20C997; box-shadow: 0 0 10px #20C997; }
+.tag-pink { background-color: #E83E8C; box-shadow: 0 0 10px #E83E8C; }
+.tag-cyan { background-color: #17A2B8; box-shadow: 0 0 10px #17A2B8; }
+.tag-lime { background-color: #C3E634; box-shadow: 0 0 10px #C3E634; }
+.tag-indigo { background-color: #6610f2; box-shadow: 0 0 10px #6610f2; }
+.tag-violet { background-color: #8b5cf6; box-shadow: 0 0 10px #8b5cf6; }
