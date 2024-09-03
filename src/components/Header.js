@@ -6,7 +6,7 @@ function Header() {
   return (
     <div className="header">
       <div className="profile">
-        <p className='pfp'> :P</p>
+        <p className='pfp'> !!</p>
         <p className='name'>Sahar Fathi</p>
         <p className='top'>Software Engineering Co-op Student</p>
         <p className='top'ww>3rd year @ McGill University</p>
