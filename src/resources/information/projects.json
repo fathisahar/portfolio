@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "QuestBit",
+      "url": "https://github.com/TJusab/QuestBit-v2",
+      "icon": "MapIcon",
+      "description": "Gamified task management application where users compete for a spot on the leaderboard with friends to complete Quests and their QuestBits.",
+      "tags": ["TypeScript", "React-Native", "Appwrite"]
+    },
+    {
+      "id": 2,
+      "name": "KitchenHelper",
+      "url": "https://github.com/fathisahar/KitchenHelper",
+      "icon": "KitchenIcon",
+      "description": "Web application to keep track of user's ingredients and recipes, offering recipes based on inventory.",
+      "tags": ["React", "JavaScript", "Flask", "Python", "MySQL"]
+    },
+    {
+      "id": 3,
+      "name": "FitHub",
+      "url": "https://github.com/McGill-ECSE321-Winter2024/FitHub",
+      "icon": "FitnessCenterIcon",
+      "description": "Sport center management web application to allow owners, instructors, and users to organize courses.",
+      "tags": ["Vue.js", "JavaScript", "PostgreSQL", "Spring"]
+    },
+    {
+      "id": 4,
+      "name": "AssetPlus",
+      "url": "https://github.com/fathisahar/AssetPlus",
+      "icon": "HotelIcon",
+      "description": "Hotel asset management desktop application to allow hotel owners, employees, and guests to track assets.",
+      "tags": ["Java", "JavaFX", "JSON"]
+    },
+    {
+      "id": 5,
+      "name": "Archer.io",
+      "url": "https://github.com/fathisahar/archerio",
+      "icon": "ShuffleIcon",
+      "description": "Educational desktop bow and arrow game in which users aim for a target on different planets and learn about the mechanics behind the arrow's trajectory.",
+      "tags": ["Java", "JavaFX", "JSON"]
+    },
+    {
+      "id": 6,
+      "name": "Spawk",
+      "url": "https://github.com/fathisahar/mchacks-24",
+      "icon": "PetsIcon",
+      "description": "Hackathon project to match pets to potential owners.",
+      "tags": ["React-Native", "Firebase", "JavaScript"]
+    }
+  ]
+  
