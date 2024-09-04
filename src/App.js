@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
+import Courses from './components/Courses';
 import './App.css';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
         <Header />
         <Experience />
         <Projects />
+        <Courses />
       </main>
     </div>
   );

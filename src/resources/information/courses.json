@@ -1,5 +1,50 @@
 [
     {
-
+        "id": 1,
+        "name": "Algorithm Design",
+        "code": "COMP 360",
+        "icon": "EditNoteIcon",
+        "description": "Advanced algorithm design and analysis. Linear programming, complexity and NP-completeness, advanced algorithmic techniques.",
+        "tags": ["Graph theory", "Time Complexity Theory", "Space Complexity Theory"]
+    },
+    {
+        "id": 2,
+        "name": "Algorithms and Data Structures",
+        "code": "COMP 251",
+        "icon": "DataArrayIcon",
+        "description": "Introduction to algorithm design and analysis. Graph algorithms, greedy algorithms, data structures, dynamic programming, maximum flows.",
+        "tags": ["Assembly", "Bitwise arithmetics"]
+    },
+    {
+        "id": 3,
+        "name": "Programming Languages and Paradigms",
+        "code": "COMP 302",
+        "icon": "LoopIcon",
+        "description": "Programming language design issues and programming paradigms. Binding and scoping, parameter passing, lambda abstraction, data abstraction, type checking. Functional and logic programming.",
+        "tags": ["OCaml", "Recursion", "Functional Programmaing"]
+    },
+    {
+        "id": 4,
+        "name": "Computer Organization",
+        "code": "ECSE 324",
+        "icon": "ComputerIcon",
+        "description": "Basic computer structures; instruction set architecture; assembly language; input/output; memory; software; processor implementation; computer arithmetic. Lab work involving assembly language level programming of single-board computers.",
+        "tags": ["Assembly", "Bitwise arithmetics"]
+    },
+    {
+        "id": 5,
+        "name": "Fundamentals of Software Development",
+        "code": "ECSE 250",
+        "icon": "PasswordIcon",
+        "description": "Software development practices in the context of object-oriented programming. Elementary data structures such as lists, stacks and trees. Recursive and non-recursive algorithms: searching and sorting, tree and graph traversal. Asymptotic notation: Big O. Introduction to tools and practices employed in commercial software development.",
+        "tags": ["Java", "Data Structures"]
+    },
+    {
+        "id": 6,
+        "name": "Probability and Statistics for Engineers",
+        "code": "ECSE 205",
+        "icon": "AutoGraphIcon",
+        "description": "Probability: basic probability model, conditional probability, Bayes rule, random variables and vectors, distribution and density functions, common distributions in engineering, expectation, moments, independence, laws of large numbers, central limit theorem. Statistics: descriptive measures of engineering data, sampling distributions, estimation of mean and variance, confidence intervals, hypothesis testing, linear regression.",
+        "tags": ["Statistics"]
     }
 ]
