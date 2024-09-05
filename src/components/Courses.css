@@ -1,3 +1,23 @@
 h3 { 
     margin: 0px;
 }
+
+.project-item-courses {
+    flex: 1;
+    min-width: 200px; 
+    margin-bottom: 20px;
+    margin-right: 20px;
+  }
+  
+.project-item-courses {
+    position: relative;
+    transition: transform 0.5s ease;
+  }
+  
+  .project-item-courses:hover {
+    transform: translateY(-5px);
+  }
+  
+  .project-item-courses:hover {
+    animation: bounce 0.5s ease-in-out;
+  }

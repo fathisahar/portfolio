@@ -24,7 +24,7 @@ function Courses() {
           <h2 className='header'>Academic Courses</h2>
           <section className="projects">
             {coursesData.map((project) => (
-              <div className="project-item" key={project.id} onClick={() => window.open(project.url)}>
+              <div className="project-item-courses" key={project.id}>
                 {React.createElement(icons[project.icon])}
                 <h3 className='title'>{project.name}</h3>
                 <h2>{project.code}</h2>
