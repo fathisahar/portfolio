@@ -8,7 +8,6 @@ import PasswordIcon from '@mui/icons-material/Password';
 import AutoGraphIcon from '@mui/icons-material/AutoGraph';
 import coursesData from '../resources/information/courses.json'; 
 
-
 function Courses() {
 
     const icons = {
