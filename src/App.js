@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
-import Courses from './components/Courses';
+import Extracurricular from './components/Extracurricular';
 import './App.css';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
         <Header />
         <Experience />
         <Projects />
-
+        <Extracurricular />
       </main>
     </div>
   );
