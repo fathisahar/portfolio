@@ -10,7 +10,7 @@ function Extracurricular() {
             <div className="experience-item">
             <p className='date'>September 2022 to April 2024</p>
               <h3 className='rocket-title'>Rocket Team Member</h3>
-              <img className='rocket' src={require('./rocket.png')}/>
+              <img className='rocket' src={require('./rocket.png')}  alt="McGill Rocket Club logo"/>
               <p className='description'>
               •	Engineered a responsive graphical user interface (GUI) for the rocket-building club using <span className='semibold'>Java</span>, <span className='semibold'>JavaFX</span> and <span className='semibold'>SceneBuilder</span>. <br/>
               •	Applied advanced <span className='semibold'>CSS</span>  techniques, including the implementation of a dark mode theme, to enhance the user interface. <br/>

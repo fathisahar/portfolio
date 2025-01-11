@@ -37,6 +37,15 @@ h2 {
   margin: 0px;
 }
 
+.rbc {
+  width: 160px;
+}
+
+.amazon {
+  width: 150px;
+  margin: 0px;
+}
+
 .dell-title{
   margin: 0px;
   color: #036ba8;
@@ -45,4 +54,14 @@ h2 {
 .nokia-title{
   margin: 0px;
   color: #0053d9;
+}
+
+.rbc-title{
+  margin: 0px;
+  color: #154899;
+}
+
+.amazon-title{
+  margin: 0px;
+  color: #d96900;
 }
