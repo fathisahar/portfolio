@@ -4,7 +4,7 @@
       "name": "QuestBit",
       "url": "https://github.com/TJusab/QuestBit-v2",
       "icon": "MapIcon",
-      "description": "Gamified task management application where users compete for a spot on the leaderboard with friends to complete Quests and their QuestBits.",
+      "description": "Gamified task management application where users compete while completing quests and their questbits.",
       "tags": ["TypeScript", "React-Native", "Appwrite"]
     },
     {
@@ -20,7 +20,7 @@
       "name": "FitHub",
       "url": "https://github.com/McGill-ECSE321-Winter2024/FitHub",
       "icon": "FitnessCenterIcon",
-      "description": "Sport center management web application to allow owners, instructors, and users to organize courses.",
+      "description": "Sport center management web application to allow and users to interact with courses.",
       "tags": ["Vue.js", "JavaScript", "PostgreSQL", "Spring"]
     },
     {
@@ -36,7 +36,7 @@
       "name": "Archer.io",
       "url": "https://github.com/fathisahar/archerio",
       "icon": "ShuffleIcon",
-      "description": "Educational desktop bow and arrow game in which users aim for a target on different planets and learn about the mechanics behind the arrow's trajectory.",
+      "description": "Educational desktop bow and arrow game to learn about the mechanics behind the arrow's trajectory on different planets.",
       "tags": ["Java", "JavaFX", "JSON"]
     },
     {

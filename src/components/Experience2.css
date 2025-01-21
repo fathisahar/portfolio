@@ -1,0 +1,57 @@
+.experience {
+    flex-wrap: wrap;
+  }
+  
+  .experience-item {
+    margin-bottom: 20px;
+  }
+  
+  .date {
+    font-family: 'Karla-Italic', sans-serif;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    color: #acb6c1;
+  }
+  
+  .description {
+    margin-top: 0px;
+    font-size: 14px;
+  }
+    
+  h2 {
+    font-family: 'Karla-SemiBold', sans-serif;
+    margin-bottom: 0px;
+    color: #036ba8;
+  }
+  
+  
+  .nokia {
+    width: 70px;
+    margin: 0px;
+  }
+  
+  .dell { 
+    width: 170px;
+    margin: 0px;
+  }
+  
+  .rbc {
+    width: 160px;
+  }
+  
+  .amazon {
+    width: 150px;
+    margin: 0px;
+  }
+  
+  .title{
+    margin: 0px;
+    color: #036ba8;
+  }
+  
+  .company { 
+    font-family: 'Karla-Medium', sans-serif;
+    margin-bottom: 0px;
+    font-size: 18px;
+    color: #acb6c1;
+  }

@@ -1,0 +1,55 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .profile {
+    display: flex;
+    flex-direction: column;
+    color: #acb6c1;
+  }
+  
+  .pfp { 
+    font-size: 52px;
+    margin: 0px;
+  }
+   
+  .name {
+    margin: 0px;
+    font-family: 'Karla-SemiBold', sans-serif;
+    font-size: 32px;
+    margin-top: 70px;
+    color: #036ba8;
+  }
+  
+  .top {
+    margin: 3px;
+  }
+  
+  .profile-pic {
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  .social-icons {
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: -25px;
+  }
+  
+  .social-icons a {
+    margin: 0 10px;
+    font-size: 28px;
+    border: 0px;
+  }
+  
+  .icon {
+    color: #acb6c1;
+  }
+  
+  p {
+    margin: 0px;
+  }
